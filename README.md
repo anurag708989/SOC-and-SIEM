@@ -11,9 +11,13 @@ collects and analyzes aggregated log data
 
 
 ## open source tools for soc and siem 
-1.volatility
-2. Snort
-3. Apache metron
+1.volatility:<a href="https://github.com/volatilityfoundation/volatility">volatlity</a>
+2. Snort:Snort is the foremost Open Source Intrusion Prevention System (IPS) in the world. Snort IPS uses a series of rules that help define malicious network activity and uses those rules to find packets that match against them and generates alerts for users.
+
+Snort can be deployed inline to stop these packets, as well. Snort has three primary uses: As a packet sniffer like tcpdump, as a packet logger — which is useful for network traffic debugging, or it can be used as a full-blown network intrusion prevention system. Snort can be downloaded and configured for personal and business use alike.<a href="https://www.snort.org/">SNORT</a>
+3. Apache metron:
+Apache Metron provides a scalable advanced security analytics framework built with the Hadoop Community evolving from the Cisco OpenSOC Project. A cyber security application framework that provides organizations the ability to detect cyber anomalies and enable organizations to rapidly respond to identified anomalies.
+<a href="https://metron.apache.org/">APACHEMETRON</a>
 4. alienworld Ossim
 5. Elk stack
 6. Sie monster
