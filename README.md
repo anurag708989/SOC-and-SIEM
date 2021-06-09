@@ -7,6 +7,9 @@ consists of people , processes and technology designed to deal with security eve
 ## Siem (security incident event management):
 collects and analyzes aggregated log data
 
+<a href="https://www.comparitech.com/net-admin/siem-tools/">Top 10 Tools 2021 for SOC and SIEM </a>
+
+
 ## open source tools for soc and siem 
 1.volatility
 2. Snort
