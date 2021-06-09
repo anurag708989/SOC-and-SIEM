@@ -22,13 +22,16 @@ Apache Metron provides a scalable advanced security analytics framework built wi
 ### Elk stack:<a href="https://logz.io/blog/elk-siem/">ELKSTACK</a>
 ### Siemonster :<a href="https://siemonster.com/">SIEMONSTER</a> human based behavior ,threat intelligence , deep learning , machine learning , smb  & enterprise , cloud onsite
 ### Security Onion 2:<a href="https://securityonionsolutions.com/software/">SecurityOnion2</a>
-### Smooth wall express
-### Ossec
-### Calm av
-### Cyphon
+### Smooth wall express:Security Onion is a free and open source Linux distribution for threat hunting, enterprise security monitoring, and log management. The easy-to-use Setup wizard allows you to build an army of distributed sensors for your enterprise in minutes!
+Security Onion includes Elasticsearch, Logstash, Kibana, Suricata, Zeek (formerly known as Bro), Wazuh, Stenographer, TheHive, Cortex, CyberChef, NetworkMiner, and many other security tools.
+### Ossec:https://www.ossec.net/ossec-downloads/
+### Clamav : https://www.clamav.net/
+### Cyphon : A good cybersecurity defense includes implementing tools like SIEM, UTM firewalls and advanced endpoint security technology. However, without the human component—someone to actively utilize the data coming from these tools—you are essentially still at square one. That’s because it’s not necessarily how good your tools are, but who’s leveraging those tools to keep watch over your environment.
+
+According to Gartner: “The goal of MDR services is to rapidly identify and limit the impact of security incidents to customers. These services are focused on remote 24/7 threat monitoring, detection and targeted response activities. MDR providers may use a combination of host and network-layer technologies, as well as advanced analytics, threat intelligence, forensic data, and human expertise for investigation, threat hunting and response to detected threats.” (Gartner, “Market Guide for Managed Detection and Response Services,” July 2019.) <a href="https://www.cyphon.io/">CYPHON</a>
 ### Mod security
 ### Shadow demon
-### Suricata
+### Suricata:<a href="https://cybersecurity.att.com/blogs/security-essentials/open-source-intrusion-detection-tools-a-quick-overview">SURICATA</a>
 ### panther
 
 ## industry tools for soc and siem
