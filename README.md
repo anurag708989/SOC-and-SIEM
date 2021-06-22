@@ -100,3 +100,15 @@ sudo filebeat setup
 sudo service filebeat start
 ```
 
+
+## suricata
+
+
+
+## wazua
+
+
+
+
+
+
